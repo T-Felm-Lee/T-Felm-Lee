@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Tanner
-- 👀 I’m interested in video game programming
-- 🌱 I’m currently learning C++ and game dev.
-- 💞️ I’m looking to collaborate on a C++ project to get better at working in the laguage.
+Code go brrr
